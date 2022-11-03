@@ -4,7 +4,7 @@ title: "Welcome to Crank and File!"
 author: "Oliver Bates"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: logo-lne.png
 ---
 
 Crank and File is a collection of research outputs led by [Oliver Bates](http://oliverbates.co.uk) and [Ben Kirman](http://ben.kirman.org).

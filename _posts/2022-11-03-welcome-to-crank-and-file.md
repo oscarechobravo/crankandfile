@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to Crank and File!"
 author: "Oliver Bates"
 categories: documentation
-tags: [documentation,about]
+tags: [about]
 image: logo-square.png
 ---
 

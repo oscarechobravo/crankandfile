@@ -2,7 +2,9 @@
   <!--<h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3>-->
-  <a class="site-title-logo" href="{{ site.github.url }}/"><img src="{{ site.github.url }}//assets/img/logo-lne.png"/></a>
+  <a href="{{ site.github.url }}/">
+    <img class="site-title-logo" src="{{ site.github.url }}//assets/img/logo-lne.png"/>
+  </a>
   <nav class="menu-list">
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}" class="menu-link">{{ item.name }}</a>

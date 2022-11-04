@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Outputs
+title: Resources
 category: resources
-permalink: /outputs
+permalink: /resources
 ---

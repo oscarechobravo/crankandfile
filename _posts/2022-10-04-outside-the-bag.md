@@ -2,8 +2,8 @@
 layout: post
 title: "Outside the Bag"
 author: "Oliver Bates"
-categories: output
-tags: [output]
+categories: outputs
+tags: [outputs]
 image: bag-goblin.png
 ---
 

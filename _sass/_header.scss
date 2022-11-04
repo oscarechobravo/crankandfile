@@ -67,6 +67,9 @@
   .site-title {
     padding-right: 0.25rem;
   }
+  .site-title-logo {
+    padding-right: 0.25rem;
+  }
   .dropbtn {
     background-color: white;
     color: black;
@@ -75,9 +78,10 @@
     font-size: 16px;
     border: none;
     cursor: pointer;
+    float:right;
   }
   .dropdown {
-    position: relative;
+    position: §;
     display: inline-block;
   }
   .dropdown-content {

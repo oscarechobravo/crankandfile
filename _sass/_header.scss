@@ -81,8 +81,9 @@
     float:right;
   }
   .dropdown {
-    position: §;
+    //position: §;
     display: inline-block;
+    position:relative;
   }
   .dropdown-content {
     display: none;

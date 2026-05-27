@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Museum of Mankey Tea Towels: Call for Tea Towels!"
+title: "Museum of Manky Tea Towels: Call for Tea Towels!"
 author: "Ben Kirman"
 categories: outputs
 tags: [outputs, active]
-image: not_mankey_tea_towels-web.jpeg
+image: not_manky_tea_towels-web.jpeg
 ---
 
 # Call for Tea Towels!
